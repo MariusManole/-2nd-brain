@@ -1,5 +1,6 @@
-# Aeropress technique for espresso-style coffee [from James Hoffman]
+# Coffee
 
+## Aeropress technique for espresso-style coffee [from James Hoffman]
 ## Inputs:
 * 18g (preferably) espresso-roast coffee, on the finest Wilfa grind setting,
 * (?C) 90g hot water.
