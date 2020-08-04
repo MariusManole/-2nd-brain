@@ -26,6 +26,7 @@
 
 Dairy and non-dairy milks irreparably break around 70C \(bad taste, low foam\). Prefer "barista-style" non-dairy options.
 
+
 ## Pour Over technique [from James Hoffman]
 
 ## Inputs:
