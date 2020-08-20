@@ -4,7 +4,9 @@
 
 1. No shared state - the function should only depend on its inputs
 2. Pure function - included in 1\) - the function should not depend on anything outside of it
-3. No side effects - included in 1\) - the function should not influence anything outside of it
+3. No side effects - included in 1\) - the function should not influence anything outside of it\]
+4. Functional tools \(map/reduce/filter etc.\) 
+5. Functions as values \(higher order functions\) - functions are first class objects \(e.g. x in f\(x\) can be another function\)
 
 ```text
 data = {} # wrong - the function should not have a 'shared state'
@@ -17,5 +19,7 @@ fn(x,y):
     return ...
 ```
 
+Links:
 
+[https://www.youtube.com/watch?v=\_M5c4e8FL9s](https://www.youtube.com/watch?v=_M5c4e8FL9s)
 
