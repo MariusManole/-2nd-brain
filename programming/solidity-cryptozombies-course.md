@@ -230,5 +230,32 @@ contract ZombieFactory {
 
 ## Lesson 2
 
+### Chapter 2: Mappings and Addresses
+
+Two new **data types**: mapping and address.
+
+The Ethereum blockchain is made up of accounts, which you can think of like bank accounts. An account has a balance of Ether \(the currency used on the Ethereum blockchain\), and you can send and receive Ether payments to other accounts, just like your bank account can wire transfer money to other bank accounts.
+
+Each account has an address, which you can think of like a bank account number. It's a unique identifier that points to that account, and it looks like this:
+
+0x0cE446255506E92DF41614C46F1d6df9Cc969183
+
+### Mappings <a id="mappings"></a>
+
+In Lesson 1 we looked at _**structs**_ and _**arrays**_. _**Mappings**_ are another way of storing organized data in Solidity.
+
+Defining a `mapping` looks like this:
+
+```text
+// For a financial app, storing a uint that holds the user's account balance:
+mapping (address => uint) public accountBalance;
+// Or could be used to store / lookup usernames based on userId
+mapping (uint => string) userIdToName;
+```
+
+A mapping is essentially a key-value store for storing and looking up data. In the first example, the key is an `address` and the value is a `uint`, and in the second example the key is a `uint` and the value a`string`.
+
+### Chapter 3: Msg.sender
+
 
 
