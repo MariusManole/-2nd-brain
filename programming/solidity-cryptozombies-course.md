@@ -257,5 +257,7 @@ A mapping is essentially a key-value store for storing and looking up data. In t
 
 ### Chapter 3: Msg.sender
 
+In Solidity, there are certain global variables that are available to all functions. One of these is `msg.sender`, which refers to the `address` of the person \(or smart contract\) who called the current function.
+
 
 
