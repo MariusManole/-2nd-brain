@@ -19,7 +19,5 @@ fn(x,y):
     return ...
 ```
 
-Links:
-
-[https://www.youtube.com/watch?v=\_M5c4e8FL9s](https://www.youtube.com/watch?v=_M5c4e8FL9s)
+Source: [https://www.youtube.com/watch?v=\_M5c4e8FL9s](https://www.youtube.com/watch?v=_M5c4e8FL9s)
 
