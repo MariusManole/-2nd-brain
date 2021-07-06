@@ -26,23 +26,24 @@
 
 Dairy and non-dairy milks irreparably break around 70C \(bad taste, low foam\). Prefer "barista-style" non-dairy options.
 
-
-## Pour Over technique [from James Hoffman]
+## Pour Over technique \[from James Hoffman\]
 
 ## Inputs:
-* Brew ratio: 60 g/L (e.g. 30 g per 500 mL),
-* Grind size: medium fine, progress to finer and dial back when too harsh and bitter,
-* Temperature: the hotter, the better (especially with lighter roasts).
 
+* Brew ratio: 60 g/L \(e.g. 30 g per 500 mL\),
+* Grind size: medium fine, progress to finer and dial back when too harsh and bitter,
+* Temperature: the hotter, the better \(especially with lighter roasts\).
 
 ## Method:
+
 1. Rinse filter with water just off the boil.
-1. Add coffee grounds and create a well in the middle. This will evenly saturate all the grounds during blooming.
-1. Start timer and add 2x (up to 3x) coffee weight of bloom water.
-1. Swirl the coffee slurry until evenly mixed.
-1. Bloom for up to 45s. This allows CO2 to escape which will improve extraction.
-1. Add water aiming for 60% of total brew weight in the next 30s.
-1. Slowly add water aiming for 100% of the total brew weight in the next 30s.
-1. Stir 1x clockwise and 1x anticlockwise with spoon to knock off grounds from the side walls.
-1. Allow water to drain a little and give it a gentle swirl to flatten the coffee bed bottom.
-1. Aim to finish drawdawn by 3:30.
+2. Add coffee grounds and create a well in the middle. This will evenly saturate all the grounds during blooming.
+3. Start timer and add 2x \(up to 3x\) coffee weight of bloom water.
+4. Swirl the coffee slurry until evenly mixed.
+5. Bloom for up to 45s. This allows CO2 to escape which will improve extraction.
+6. Add water aiming for 60% of total brew weight in the next 30s.
+7. Slowly add water aiming for 100% of the total brew weight in the next 30s.
+8. Stir 1x clockwise and 1x anticlockwise with spoon to knock off grounds from the side walls.
+9. Allow water to drain a little and give it a gentle swirl to flatten the coffee bed bottom.
+10. Aim to finish drawdawn by 3:30.
+
